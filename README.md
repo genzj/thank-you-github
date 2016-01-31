@@ -353,3 +353,4 @@ Signed,
 - Rod Lin ([@rod-lin](https://github.com/rod-lin)), Student, yet another developer
 - Linganesan([@linganesan](https://github.com/linganesan)), who loves open source
 - Wassim Chegham ([@manekinekko](https://github.com/manekinekko)), JavaScript hacker and Open Source lover
+- ZHU Jie ([@genzj](https://github.com/genzj)), Python/C Developer
